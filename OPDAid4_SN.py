@@ -1,0 +1,3 @@
+myLineBotApi='FiPs5jQJ9qCRpLGkAqQTDT7WUxtBCquTyifN0+9AFOeA+cenvrHnAXWSQclCgkRxwDUiI5S4fV+/llsph6ssiEjvV/tXZq4+iCuwtYOddridTk/p65XPICIWBDdkPj0YOqev4b9Dep2qIgihwA0ZYAdB04t89/1O/w1cDnyilFU='
+myWebhookHandler='f88b6d43fb12012b48e0e87197676129'
+myUserID='Uc7b1a9a5aa6e82e9184ef989187c6be7'
